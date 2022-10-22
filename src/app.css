@@ -1,0 +1,33 @@
+.app-container {
+    background: grey;
+    height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.game {
+    background: orange;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
+
+h4 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+input {
+    height: 50px;
+}
+
+span {
+    color: aliceblue;
+}
